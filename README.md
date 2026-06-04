@@ -72,10 +72,10 @@ That's it – your online audio player is ready.
 
 ---
 
-## 📝 License / 开源协议
+## 📝 MIT License / MIT 开源协议
 
 **English**  
-Free to use, modify, and share.
+Free to use, modify, and share. but remember give us credit.tks
 
 **中文**  
-自由使用、修改和分享。
+自由使用、修改和分享。记得提示一下您复用了此处的思路或代码
