@@ -9,6 +9,7 @@ A simple web-based audio player designed for playing your local audio files.
 ## 🎧 Live Demo / 在线体验
 
 Visit [https://eting.cn/index.php](https://eting.cn/index.php) to play audio files directly from your PC or phone.
+
 访问 [https://eting.cn/index.php](https://eting.cn/index.php)，即可在电脑或手机上直接播放您本地的音频文件。
 
 ---
@@ -18,6 +19,7 @@ Visit [https://eting.cn/index.php](https://eting.cn/index.php) to play audio fil
 ### Option 1: if you aleady have a typic webhosting / 如果您已经有一个典型的web服务器
 
 Just copy `index.php` into your web hosting directory – that's it.
+
 直接将 `index.php` 上传到您的网站目录即可，无需任何额外配置。
 
 ---
@@ -25,6 +27,7 @@ Just copy `index.php` into your web hosting directory – that's it.
 ### Option 2: Use as Static HTML / 作为静态 HTML 使用
 
 If you don't have PHP hosting, simply rename `index.php` to `index.html` – it will work perfectly.
+
 如果您没有支持 PHP 的主机环境，只需将 `index.php` 重命名为 `index.html` 即可直接运行。
 
 ---
@@ -62,4 +65,5 @@ That's it – your online audio player is ready.
 ## 📝 MIT License / MIT 开源协议
 
 Free to use, modify, and share. but remember give us credit.tks
+
 自由使用、修改和分享。记得提示一下您复用了此处的思路或代码
